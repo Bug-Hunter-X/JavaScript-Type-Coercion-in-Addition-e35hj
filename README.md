@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error related to type coercion during addition.  The `bug.js` file shows the unexpected behavior when adding a number and a string. The `bugSolution.js` file offers solutions to avoid this issue.
